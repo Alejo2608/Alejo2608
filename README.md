@@ -17,6 +17,9 @@ Hola, soy Alejandro, soy estudiante de Full Stack Web Developer. Me considero un
   * FrontEnd:
     + React
     + Redux
+    + Hooks
+    + Css
+    + Boostrap
 
 ### Proyectos
 
